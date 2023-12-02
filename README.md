@@ -1,4 +1,4 @@
-# Welcome to M (FTP Server in C++)
+# Skype clone in C++/Qt
 ***
 
 Authors: 
