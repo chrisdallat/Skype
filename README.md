@@ -1,4 +1,4 @@
-# Skype clone in C++/Qt
+# Skype clone in C++ (Qt GUI)
 ***
 
 Authors: 
