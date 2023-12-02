@@ -2,11 +2,11 @@
 ***
 
 Authors: 
-
+```
 Pedro Botsaris (www.github.com/Pbotsaris)
 Chris Dallat (www.github.com/chrisdallat)
 Khalil Masree (www.github.com/khalilmasri)
-
+```
 
 ## Task
 
