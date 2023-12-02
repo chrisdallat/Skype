@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons8-plus-48.png</file>
+        <file>icons8-minus-48.png</file>
+        <file>icons8-video-camera-24.png</file>
+        <file>icons8-phone-32.png</file>
+        <file>icons8-email-send-24.png</file>
+        <file>icons8-search-50.png</file>
+        <file>online.png</file>
+        <file>offline.png</file>
+        <file>notification.png</file>
+        <file>bell.png</file>
+        <file>mute.png</file>
+        <file>call_hangup.png</file>
+        <file>menu.png</file>
+        <file>camera.png</file>
+        <file>camera_off.png</file>
+        <file>microphone.png</file>
+        <file>answer.png</file>
+        <file>decline.png</file>
+    </qresource>
+</RCC>
